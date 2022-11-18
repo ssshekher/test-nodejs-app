@@ -19,7 +19,6 @@
    ```sh 
    yum -y install nodejs
    ```
-
 Setup Jenkins job 
 
 ## Fork nodejs applicaton onto your repository 
